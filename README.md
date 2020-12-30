@@ -1,5 +1,7 @@
 # Ising_Model
 
+![](ising_model.gif)
+
 The Ising model in statistical mechanics is used to model phase transitions.
 
 We will apply the Ising model to simulate interactions between spins in a symmetric lattice. Each node can occupy 2 possible spin states: +1 and -1.
