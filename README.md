@@ -7,7 +7,7 @@ The Ising model in statistical mechanics is used to model phase transitions.
 We will apply the Ising model to simulate interactions between spins in a symmetric lattice. Each node can occupy 2 possible spin states: +1 and -1.
 
 We start with the Hamiltionian of the system. The energy of the system is given by:
-
+/n
 <a href="https://www.codecogs.com/eqnedit.php?latex=E=&space;-&space;\sum_i&space;h_i&space;S_i&space;-&space;\sum_{i&space;\neq&space;j}&space;J_{ij}&space;S_i&space;S_j" target="_blank"><img src="https://latex.codecogs.com/gif.latex?E=&space;-&space;\sum_i&space;h_i&space;S_i&space;-&space;\sum_{i&space;\neq&space;j}&space;J_{ij}&space;S_i&space;S_j" title="E= - \sum_i h_i S_i - \sum_{i \neq j} J_{ij} S_i S_j" /></a>
 
 The first term is the contribution due to the interactions of all spins with an external magnetic field. If uniform, h is a constant.
