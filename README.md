@@ -1,6 +1,6 @@
 # Ising_Model
 
-<img src="https://github.com/SanjifShan/Ising_Model/blob/main/ising_model.gif" width="250" height="250"/>
+<img src="https://github.com/SanjifShan/Ising_Model/blob/main/ising_model.gif" width="400" height="400"/>
 
 The Ising model in statistical mechanics is used to model phase transitions.
 
